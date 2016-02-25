@@ -124,7 +124,7 @@ The WRITE Command
 
 The :ref:`write-command-label` prints the value of a variable to the standard output.
 
-The sames rules of spaces applies to the WRITE command. There should be one and
+The same rules of spaces applies to the WRITE command. There should be one and
 only one space between the WRITE command and its argument.
 
 ::
@@ -147,7 +147,7 @@ or
   0
 
 
-Multiple elemements can be combined in the same WRITE command by separating them with commas
+Multiple elements can be combined in the same WRITE command by separating them with commas
 
 ::
 
@@ -173,7 +173,7 @@ To exit the interpreter, use the :ref:`halt-command-label`.
 
   GTM> HALT
 
-this will return you to the command prompot of your shell interpreter.
+this will return you to the command prompt of your shell interpreter.
 
 
 Next Lesson: :ref:`basic-coding-style-lesson-label`.
